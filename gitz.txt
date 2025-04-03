@@ -2,5 +2,5 @@ WEB base sistem jasa keuangan syariah
 - selesaikan git
 - lengkapi report pak latif
 - implementasi di lapangan
-- lanjut lengkapi dengan api ke odoo
 - kolaborasi dengan market place
+- buat vlog
