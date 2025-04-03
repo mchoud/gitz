@@ -1,0 +1,4 @@
+WEB base sistem jasa keuangan syariah
+- selesaikan git
+- lengkapi report pak latif
+- implementasi di lapangan
