@@ -1,2 +1,2 @@
 # gitz
-initial file
+Repository awal untuk persiapan sistem keuangan syariah online
